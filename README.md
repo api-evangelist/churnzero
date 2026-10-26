@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ChurnZero is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://churnzero.com/
+ChurnZero provides AI‑powered customer success software that helps businesses grow revenue by reducing churn, improving onboarding, and increasing customer engagement. The platform offers digital customer success tools, AI agents, analytics, and integrations to enable teams to retain and expand accounts, automate workflows, and gain actionable insights across the customer lifecycle.
+
+**Areas:** Company · Customer Success · AI · SaaS · Analytics
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://churnzero.com/)
+- [Getting started](https://churnzero.com/solutions-onboarding/)
+- [Support](https://support.churnzero.com/hc/en-us)
+- [Blog](https://churnzero.com/blog/)
+- [Compliance](https://compliance.churnzero.com:443/)
+- [Privacy policy](https://churnzero.com/privacy-center/)
+- [Status](https://status.churnzero.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/churnzero/](https://apis.io/providers/churnzero/).
